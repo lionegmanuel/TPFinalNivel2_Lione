@@ -1,0 +1,9 @@
+A:\Documents\MANUEL\Proyectos\TPFinalNivel2_Lione\bussines\bin\Debug\bussines.dll
+A:\Documents\MANUEL\Proyectos\TPFinalNivel2_Lione\bussines\bin\Debug\bussines.pdb
+A:\Documents\MANUEL\Proyectos\TPFinalNivel2_Lione\bussines\bin\Debug\acces.dll
+A:\Documents\MANUEL\Proyectos\TPFinalNivel2_Lione\bussines\bin\Debug\acces.pdb
+A:\Documents\MANUEL\Proyectos\TPFinalNivel2_Lione\bussines\obj\Debug\bussines.csproj.AssemblyReference.cache
+A:\Documents\MANUEL\Proyectos\TPFinalNivel2_Lione\bussines\obj\Debug\bussines.csproj.CoreCompileInputs.cache
+A:\Documents\MANUEL\Proyectos\TPFinalNivel2_Lione\bussines\obj\Debug\bussines.csproj.CopyComplete
+A:\Documents\MANUEL\Proyectos\TPFinalNivel2_Lione\bussines\obj\Debug\bussines.dll
+A:\Documents\MANUEL\Proyectos\TPFinalNivel2_Lione\bussines\obj\Debug\bussines.pdb

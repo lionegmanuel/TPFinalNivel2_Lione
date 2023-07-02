@@ -1,0 +1,6 @@
+A:\Documents\MANUEL\Proyectos\TPFinalNivel2_Lione\acces\bin\Debug\acces.dll
+A:\Documents\MANUEL\Proyectos\TPFinalNivel2_Lione\acces\bin\Debug\acces.pdb
+A:\Documents\MANUEL\Proyectos\TPFinalNivel2_Lione\acces\obj\Debug\acces.csproj.AssemblyReference.cache
+A:\Documents\MANUEL\Proyectos\TPFinalNivel2_Lione\acces\obj\Debug\acces.csproj.CoreCompileInputs.cache
+A:\Documents\MANUEL\Proyectos\TPFinalNivel2_Lione\acces\obj\Debug\acces.dll
+A:\Documents\MANUEL\Proyectos\TPFinalNivel2_Lione\acces\obj\Debug\acces.pdb
